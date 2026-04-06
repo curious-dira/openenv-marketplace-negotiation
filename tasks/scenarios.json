@@ -1,17 +1,26 @@
 [
   {
-    "item_price": 1000,
-    "buyer_offer": 850,
-    "seller_min_price": 900
+    "name": "medium",
+    "data": {
+      "listed_price": 1000,
+      "buyer_offer": 850,
+      "seller_min_price": 900
+    }
   },
   {
-    "item_price": 500,
-    "buyer_offer": 480,
-    "seller_min_price": 450
+    "name": "easy",
+    "data": {
+      "listed_price": 500,
+      "buyer_offer": 480,
+      "seller_min_price": 450
+    }
   },
   {
-    "item_price": 2000,
-    "buyer_offer": 1200,
-    "seller_min_price": 1500
+    "name": "hard",
+    "data": {
+      "listed_price": 2000,
+      "buyer_offer": 1200,
+      "seller_min_price": 1500
+    }
   }
 ]
